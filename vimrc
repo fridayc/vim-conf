@@ -26,6 +26,7 @@ Bundle 'Lokaltog/vim-powerline'
 Bundle 'scrooloose/nerdtree.git'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'plasticboy/vim-markdown'
+Bundle 'Valloric/YouCompleteMe'
 
 Bundle 'taglist.vim'
 Bundle 'L9'
